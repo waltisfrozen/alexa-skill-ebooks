@@ -1,0 +1,13 @@
+{
+	"name": "chewy-server",
+	"version": "1.0.0",
+	"description": "",
+	"scripts": {
+		"start": "node examples/server"
+	},
+	"author": "Martyn Eggleton",
+	"dependencies": {
+		"alexa-wikia-app-server": "^2.3.4",
+    "firebase": "^3.7.5"
+	}
+}
